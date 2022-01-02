@@ -1,0 +1,13 @@
+{
+    "name": "grace/cache",
+    "description": "The Grace Cache package.",
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Grace\\Cache\\": ""
+        }
+    }
+}
